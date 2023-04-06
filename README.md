@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lukas
+<h1 align="center">Hi 👋, I'm Lukas.
 </h1>
-<h3 align="center">A passionate backend developer from Taiwan
+<h3 align="center">A passionate backend developer from Taiwan.
 </h3>
 <h3 align="left">Connect with me:
 </h3>
-<p align="left">  
+<p align="left">
   <a href="https://twitter.com/lukastsai" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg" alt="lukastsai" height="30" width="40" />
   </a>
@@ -17,7 +17,7 @@
 </p>
 <h3 align="left">Languages and Tools:
 </h3>
-<p align="left"> 
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
