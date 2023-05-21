@@ -5,7 +5,7 @@
 ### Connect with me:
 
   <a href="https://twitter.com/lukastsai" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg" alt="lukastsai" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="lukastsai" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/lukastsai" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="lukastsai" height="30" width="40" />
@@ -124,7 +124,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/selenium.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="40" height="40"/>
