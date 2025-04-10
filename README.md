@@ -82,7 +82,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -147,7 +147,7 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/selenium.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original.svg" alt="travis" width="40" height="40"/>
   </a>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
