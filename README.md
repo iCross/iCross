@@ -187,9 +187,9 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=icross&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=icross&show_icons=true&locale=en&layout=compact)
 
-![iCross's GitHub stats](https://github-readme-stats.vercel.app/api?username=icross&show_icons=true&locale=en)
+![iCross's GitHub stats](https://github-readme-stats.shion.dev/api?username=icross&show_icons=true&locale=en)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icross&)
 
